@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="500" src="https://tenor.com/id/view/wang-lin-renegade-immortal-renegade-immortal-movie-gif-14362877839923361246giphy.gif"  />
+  <img height="250" width="400" src="reneged.gif"  />
 </div>
 
 ###
@@ -13,8 +13,8 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="27" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="39" height="27" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/mohamad-fiky/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="27" alt="linkedin logo"  /></a>
+  <a href="https://instagram.com/filas_756"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="39" height="27" alt="instagram logo"  /></a>
 </div>
 
 ###
