@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="300" width="500" src="reneged.gif"  />
-</div>
-
 ###
 
 <h1 align="center">Hey Everyone!!!👋</h1>
