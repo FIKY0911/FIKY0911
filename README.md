@@ -27,15 +27,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FIKY0911&theme=onedark&no-frame=true&margin-w=15" alt="FIKY0911 trophy" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Statistics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FIKY0911&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -44,6 +35,15 @@
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FIKY0911&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=FIKY0911&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="github trophies" />
+  </a>
 </p>
 
 ---
