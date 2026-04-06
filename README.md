@@ -22,7 +22,17 @@
 
 ### 🛠 Languages and Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,laravel,php,mysql,git" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="css" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="javascript" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="react" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" /></a>
+  <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" alt="laravel" /></a>
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="php" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="git" /></a>
 </div>
 
 ---
