@@ -22,6 +22,9 @@
 
 ### 🛠 Languages and Tools
 <div align="left">
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="java" /></a>
+  <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" alt="dart" /></a>
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" alt="flutter" /></a>
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="javascript" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" /></a>
