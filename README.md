@@ -29,7 +29,9 @@
   <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" /></a>
   <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="express" /></a>
   <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" alt="laravel" /></a>
+  <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" alt="prisma" /></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="postgres" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="git" /></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="docker" /></a>
   <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="postman" /></a>
@@ -38,7 +40,6 @@
 ---
 
 ### 📌 Featured Repositories
-<!-- Ganti nama repo 'JAVA-LEARN' atau lainnya sesuai dengan repo publik yang ingin kamu tonjolkan -->
 <div align="center">
   <a href="https://github.com/FIKY0911/JAVA-LEARN">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FIKY0911&repo=JAVA-LEARN&theme=tokyonight&show_owner=true" alt="Pinned Repo 1" />
